@@ -1,0 +1,14 @@
+<resources>
+    // menambahkan daftar teks affirmasi
+    <string name="app_name">recycleview1</string>
+    <string name="affirmation1">Barang siapa yang memakai sarung maka sesungguhnya ia akan sholat</string>
+    <string name="affirmation2">Makanlah sebelum lapar dan berhentilah sebelum kenyang</string>
+    <string name="affirmation3">Minumlah yakult tiap hari</string>
+    <string name="affirmation4">Ridho Allah bergantung dari Ridho Orangt tua</string>
+    <string name="affirmation5">Kegagalan merupakan awal dari kesuksesan</string>
+    <string name="affirmation6">Kerja keras dan kerja cerdas dapat memastikan sesuksesan</string>
+    <string name="affirmation7">Jangan takut dengan masa depan, hadapilah dan perjuangkan</string>
+    <string name="affirmation8">Seberapa lambat kamu bergerak, jangan berhenti</string>
+    <string name="affirmation9">Disiplin adalah jembatan antara tujuan dan pencapaian</string>
+    <string name="affirmation10">Cara terbaik untuk memulai adalah berhenti berbicara</string>
+</resources>
